@@ -1,13 +1,15 @@
-@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
-
-h1 {
-	text-align: center;
-	font-family: Indie Flower, cursive;
-	background: #000;
-	color: #fff;
-	font-family: monaco, helvetica;
+body{
+	text-align:center;
+	background: url(https://sparkleandfizz.files.wordpress.com/2012/08/purple_n_pink_glitter_texture_by_asphyxiate_stock-d37wru2.jpg);
+	background-size: cover;
+	color: black;
+	font-family: Chalkduster;
 }
 
-#slogan {
-	font-style: italic;
+hr{
+	width: 200px;
+}
+
+p{
+	font-size: 22px;
 }
