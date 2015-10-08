@@ -1,13 +1,34 @@
-body{
+body {
+  Font-size: 18px;
+}
+
+h1,h2 {
+  text-transform: uppercase;
+  border-bottom: 4px solid black;
+  display: inline-block;
+}
+
+h1 {
+  font-size: 2em;
+}
+
+h2 {
+  font-size: 1.5em;
+  padding: .8em 0;
+}
+
+img {
+  display: block;
+  margin: 0 auto;
+}
+
+ul {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}
+
+footer {
   text-align: center;
-  background: url("http://i.imgur.com/q0FaaAk.jpg");
-  background-size: cover;
-  color: #fff;
-  font-family: Helvetica;
-}
-hr {
-  width: 200px;
-}
-p {
-  font-size:22px;
+  padding: 1em 0;
 }
