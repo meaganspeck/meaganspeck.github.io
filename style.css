@@ -1,7 +1,23 @@
 body {
 	background-color:black;
+	text-align: center;
 }
 
-h1, h2, p {
-	color: gold:;
+h1, h3, {
+	color: #0000FF;
+	background-color: #FFFF00;
+	font-family: Arial, sans-serif;
+	font-size: 24px;
+	font-weight: normal;
+}
+p {
+	color: #0000FF;
+	background-color: #FFFF00
+	font-family: "Courier New", monospace;
+	font-style: italic;
+}
+
+a {
+	font-style: italic;
+	text-decoration: none;
 }
