@@ -1,10 +1,10 @@
 
-
 body {
 	background-color: yellow;
 	text-align: center;
-<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
 }
+
+@import url(https://fonts.googleapis.com/css?family=Indie+Flower);
 
 h1, h3, {
 	color: #00FFFF;
