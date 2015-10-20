@@ -1,7 +1,7 @@
 <link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
 
 body {
-	background-color:yellow;
+	background-color: yellow;
 	text-align: center;
 }
 
@@ -16,7 +16,7 @@ h1, h3, {
 p {
 	color: #0000FF;
 	background-color: #FFFF00
-	font-family: "Courier New", monospace;
+	font-family: 'Courier New', monospace;
 	font-style: italic;
 }
 
