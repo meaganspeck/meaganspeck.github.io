@@ -1,3 +1,5 @@
+<link href='https://fonts.googleapis.com/css?family=Indie+Flower' rel='stylesheet' type='text/css'>
+
 body {
 	background-color:yellow;
 	text-align: center;
@@ -6,10 +8,11 @@ body {
 h1, h3, {
 	color: #00FF00;
 	background-color: #FFFF00;
-	font-family: Arial, sans-serif;
+	font-family: 'Indie Flower', cursive;
 	font-size: 24px;
 	font-weight: normal;
 }
+
 p {
 	color: #0000FF;
 	background-color: #FFFF00
