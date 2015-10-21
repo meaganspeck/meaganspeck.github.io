@@ -11,7 +11,7 @@ h1 {
 
 h2 {
 	color: #FF00FF;
-	font-family: Calibri;
+	font-family: Courier, sans-serif;
 	text-align:center;
 	font-size: 24px;
 	font-weight: bold;
@@ -20,7 +20,7 @@ h2 {
 p {
 	color: #000;
 	background-color: #FFFF00
-	font-family: Calibri, sans-serif;
+	font-family: Courier, sans-serif;
 	font-style: italic;
 }
 
@@ -32,6 +32,7 @@ a {
 #wrapper {
 	background-color: #660033;
 	width: 960px;
+	margin: 0 auto;
 }
 
 
