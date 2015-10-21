@@ -7,7 +7,6 @@ h1 {
 	font-size: 50px;
 	font-weight: bold;
 	text-align: center;
-	border-bottom: 4px solid black;
 }
 
 h2 {
@@ -16,6 +15,7 @@ h2 {
 	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
+	border-bottom: 4px solid black;
 }
 
 p {
