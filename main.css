@@ -12,7 +12,7 @@ h1 {
 h2 {
 	color: #FF00FF;
 	font-family: Courier, sans-serif;
-	text-align:center;
+	text-align: center;
 	font-size: 24px;
 	font-weight: bold;
 }
@@ -21,7 +21,8 @@ p {
 	color: #000;
 	background-color: #FFFF00
 	font-family: Courier, sans-serif;
-	font-style: italic;
+	font-style: normal;
+	text-align: center;
 }
 
 a {
@@ -33,6 +34,7 @@ a {
 	background-color: #660033;
 	width: 960px;
 	margin: 0 auto;
+	padding: 
 }
 
 
